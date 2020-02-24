@@ -5,6 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@mdx-js/react": "^1.5.7",
+    "gatsby-plugin-mdx": "^1.0.73",
+    "gatsby-source-filesystem": "^2.1.48",
     "mkdirp": "^1.0.3"
   }
 }
