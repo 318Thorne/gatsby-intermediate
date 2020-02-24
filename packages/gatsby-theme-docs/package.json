@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "gatsby theme tutorial",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^1.0.3"
+  }
 }
